@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cine">
+        <item>Seleccione</item>
+        <item>Puerto Venecia, Av. de Puerto Venecia, 3
+    </item>
+        <item>Cines Aragonia, Av. de Juan Pablo II, 43</item>
+        <item>Cines Palafox, P.º de la Independencia</item>
+    </string-array>
+
+    <string-array name="hora">
+        <item>Seleccione</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+    <string-array name="butacas">
+        <item>Seleccione</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
